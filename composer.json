@@ -1,0 +1,24 @@
+{
+    "name": "topthink/test",
+    "description": "the new test framework",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM"
+    ],
+    "homepage": "https://github.com/wsi7554123/test.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kang",
+            "email": "805778144@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+	  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+}
