@@ -9,8 +9,4 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-<<<<<<< HEAD
-echo '修fsdfsd改derfefsdf';
-=======
-echo 'welin';
->>>>>>> 27106b933bb709ac692bd8477bac9d9bb2874270
+echo '97ddsd';
