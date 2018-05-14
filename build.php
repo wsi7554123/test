@@ -9,8 +9,6 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-<<<<<<< HEAD
+
 echo 'cwecwec';
-=======
-echo 'nlkwergwergkerfer';
->>>>>>> a
+
