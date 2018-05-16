@@ -1,1 +1,1 @@
-{ "name": "yanlongma/push", "description": "Third party message push", "authors": [ { "name": "Yanlong Ma" } ], "license": "MIT", "require": { "php": ">=5.4" }, "autoload": { "psr-4": { "YanlongMa\\Push\\": "src/" } } }
+{ "name": "testcase/pushlist", "description": "is test case", "authors": [ { "name": "kang" } ], "license": "MIT", "require": { "php": ">=5.4" }, "autoload": { "psr-4": { "kang\\Push\\": "src/" } } }
